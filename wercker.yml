@@ -10,6 +10,6 @@ deploy:
     steps:
         - uetchy/gh-pages:
             token: $GIT_TOKEN
-            repo: ekamara/ekamara.github.io
+            repo: ekamara/ekamara.github.io.git
             domain: blog.ekamara.com
             path: public
