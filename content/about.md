@@ -4,4 +4,4 @@ draft = false
 title = "about"
 
 +++
-
+This is a new site.
