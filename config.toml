@@ -1,3 +1,31 @@
 baseurl = "http://blog.ekamara.com/"
 languageCode = "en-us"
 title = "Eric Kamara"
+theme = "hyde-x"
+paginate = "10"
+
+
+[taxonomies]
+  tag = "tags"
+  topic = "topics"
+  category = "categories"
+
+[author]
+  name = "Eric Kamara"
+  email = "me@ekamara.com"
+
+[params]
+  name = "Eric Kamara"
+  description = "Musings of an intrepid techie"
+  bio = "Engineer turned Programmer turned Project Manager turned Entrepreneur"
+  twitter = "https://twitter.com/erickamara"
+  github = "https://github.com/ekamara"
+  facebook = "https://www.facebook.com/eric.kamara"
+  disqusShortname = "eric_kamara"
+  enableRSS = true
+  theme = "theme-base-0c"
+  highlight = "sunburst"
+  home = "Home"
+  tagline = "Your favourite quote or soundbite."
+  gravatarHash = "706a2a1cf0daa9fb4fa231e40bfcf398"
+  googleAnalytics = "UA-52099790-2"

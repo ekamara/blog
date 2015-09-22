@@ -3,7 +3,7 @@ box: wercker/default
 build:
     steps:
         - arjen/hugo-build@1.6.1:
-            theme: herring-cove
+            theme: hyde-x
             flags: --buildDrafts=true
 
 deploy:
